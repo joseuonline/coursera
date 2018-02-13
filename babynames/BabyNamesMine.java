@@ -1,8 +1,8 @@
 
 /**
- * Write a description of sf here.
+ * This is part of a course.
  * 
- * @author (your name) 
+ * @author Jose Uzcategui
  * @version (a version number or a date)
  */
 import edu.duke.*;
